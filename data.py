@@ -2,9 +2,9 @@ from collections import Counter
 import numpy as np
 
 
-TRAIN_DATA = "data/example.train"
-TEST_DATA = "data/example.test"
-DEV_DATA = "data/example.dev"
+TRAIN_DATA = "./data/example.train"
+TEST_DATA = "./data/example.test"
+DEV_DATA = "./data/example.dev"
 
 
 class NERData(object):
