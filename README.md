@@ -5,7 +5,7 @@
 #### 模型介绍
 参考文献: `《Deep contextualized word representations》`  
 ELMo模型图示  
-![avatar](images/ELMo.png)  
+![avatar](https://github.com/errorplayer/ELMoNER/blob/master/images/ELMo.png)  
 
 ELMo的优势  
 * ELMo能够学习到词汇用法的复杂性，比如语法、语义
@@ -32,5 +32,5 @@ ELMo的优势
 详情查看`test_modified.ipynb`文件cell output
 
 
-### 特别声明
+### 特别提醒
 改变session之后，如果遇到有关variable scope问题， 可尝试restart kernel, 然后重新运行一遍，或许有帮助。
